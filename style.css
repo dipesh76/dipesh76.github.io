@@ -1,5 +1,5 @@
 body {
-background:url(images/bg.jpg) repeat-x top #cfe1ed;
+background:url(bg.jpg) repeat-x top #cfe1ed;
 margin:0px;
 padding:0px;
 font-family:Arial, Helvetica, sans-serif;
@@ -32,7 +32,7 @@ clear:both;
 width:850px;
 height:auto;
 margin:auto;
-background:url(images/main_bg.jpg) no-repeat center top #cfe1ed;
+background:url(main_bg.jpg) no-repeat center top #cfe1ed;
 }
 #header{
 width:850px;
@@ -60,16 +60,16 @@ list-style:none;display:inline;float:left;width:auto;padding:0 7px 0 7px;font-si
 float:left;text-decoration:none;padding:0 0 0 17px; margin:0px;color:#fff; 
 }
 #menu ul li a:hover{
-float:left;text-decoration:none;padding:0 0 0 17px; margin:0px;color:#fff; background:url(images/menu_heart.gif) no-repeat left;
+float:left;text-decoration:none;padding:0 0 0 17px; margin:0px;color:#fff; background:url(menu_heart.gif) no-repeat left;
 }
 #menu ul li a.current{
-float:left;text-decoration:none;padding:0 0 0 17px; margin:0px;color:#fff; background:url(images/menu_heart.gif) no-repeat left;
+float:left;text-decoration:none;padding:0 0 0 17px; margin:0px;color:#fff; background:url(menu_heart.gif) no-repeat left;
 }
 /*-------------search_tab----------------*/
 .search_tab{
 width:367px;
 height:207px;
-background:url(images/search_tab_bg.png) no-repeat center;
+background:url(search_tab_bg.png) no-repeat center;
 float:right;
 margin:70px 50px 0 0;
 }
@@ -115,9 +115,9 @@ margin:auto;
 clear:both;
 padding:55px 0 0 0;
 }
-.center_top_bg{width:809px;height:8px;background:url(images/center_top_bg.gif) no-repeat center bottom;}
-.center_bottom_bg{width:809px;height:8px;background:url(images/center_bottom_bg.gif) no-repeat center top;}
-.center_bg{width:809px;height: auto;background:url(images/center_bg.gif) repeat-y center;}
+.center_top_bg{width:809px;height:8px;background:url(center_top_bg.gif) no-repeat center bottom;}
+.center_bottom_bg{width:809px;height:8px;background:url(center_bottom_bg.gif) no-repeat center top;}
+.center_bg{width:809px;height: auto;background:url(center_bg.gif) repeat-y center;}
 
 /*---------------------main_content------------------*/
 .left_content{
@@ -129,7 +129,7 @@ padding:10px 0 10px 20px;
 .partner_box{
 width:379px;
 height:127px;
-background:url(images/left_banner.gif) no-repeat center;
+background:url(left_banner.gif) no-repeat center;
 }
 .left_banner_content{
 width:235px;
@@ -157,7 +157,7 @@ list-style:none;width: auto;height: auto;padding:0px;
 }
 ul.list li a{
 height: 16px; width: auto; display:block;padding:0 0 0 17px; margin:5px 10px 10px 0;color:#454241;text-align:left;font-size:11px;
-background:url(images/star.gif) no-repeat left;text-decoration:none;
+background:url(star.gif) no-repeat left;text-decoration:none;
 }
 ul.list li a:hover{
 height: 16px; width: auto;text-decoration:underline;color: #454241;
@@ -181,7 +181,7 @@ margin:5px 0 0 0;
 text-align:center;
 line-height:21px;
 color:#fff;
-background:url(images/read_more.gif) no-repeat center;
+background:url(read_more.gif) no-repeat center;
 }
 a.view_all {
 width:66px;
@@ -193,7 +193,7 @@ margin:10px 10px 0 0;
 text-align:center;
 line-height:21px;
 color:#fff;
-background:url(images/view_all.gif) no-repeat center;
+background:url(view_all.gif) no-repeat center;
 }
 a.more {
 display:block;
@@ -204,7 +204,7 @@ font-weight:bold;
 margin:10px 0 0 0;
 padding:0 0 0 20px;
 color:#d11614;
-background:url(images/red_heart.gif) no-repeat left;
+background:url(red_heart.gif) no-repeat left;
 }
 
 .member_tab{
